@@ -1,4 +1,4 @@
-   Linux Driver for Mylex DAC960/AcceleRAID/eXtremeRAID PCI RAID Controllers
+Linux Driver for Mylex DAC960/AcceleRAID/eXtremeRAID PCI RAID Controllers
 
 			Version 2.2.11 for Linux 2.2.19
 			Version 2.4.11 for Linux 2.4.12
