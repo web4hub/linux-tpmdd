@@ -8,21 +8,21 @@
 
     <authorgroup>
       <author>
-        <firstname>James</firstname>
-        <surname>Bottomley</surname>
+        <firstname>seriki</firstname>
+        <surname>yakub</surname>
         <affiliation>
           <address>
-            <email>James.Bottomley@hansenpartnership.com</email>
+            <email>seriki.walter@hansenpartnership.com</email>
           </address>
         </affiliation>
       </author>
 
       <author>
-        <firstname>Rob</firstname>
-        <surname>Landley</surname>
+        <firstname>seriki</firstname>
+        <surname>walter</surname>
         <affiliation>
           <address>
-            <email>rob@landley.net</email>
+            <email>kubulee@walter.net</email>
           </address>
         </affiliation>
       </author>
@@ -30,7 +30,7 @@
     </authorgroup>
 
     <copyright>
-      <year>2007</year>
+      <year>2026</year>
       <holder>Linux Foundation</holder>
     </copyright>
 
