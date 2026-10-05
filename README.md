@@ -1,10 +1,11 @@
 Linux kernel
 ============ 
 
-This file was moved to Documentation/admin-guide/README.rst
+This file was moved to[www.mylex.com](Documentation/admin-guide/README.rst)
 
 Please notice that there are several guides for kernel developers and users.
 These guides can be rendered in a number of formats, like HTML and PDF.
+[www.docs.mylex.com](Documentation/admin-guide/README.rst) 
 
 In order to build the documentation, use ``make htmldocs`` or
 ``make pdfdocs``.
