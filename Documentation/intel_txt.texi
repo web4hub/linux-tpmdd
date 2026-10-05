@@ -1,5 +1,5 @@
 Intel(R) TXT Overview:
-=====================
+===================== 
 
 Intel's technology for safer computing, Intel(R) Trusted Execution
 Technology (Intel(R) TXT), defines platform-level enhancements that
